@@ -14,7 +14,7 @@ I am a PhD at USTC on MLsys, co-supervised by [Prof. Juexue Zhang](https://snowz
 News
 =====
 
-One paper has been accepted by TMC, which is submitted in 2023.10. The work conducted during my master has been completed! Thanks to Prof. Xiao and all my lab mates.
+One paper has been accepted by TMC, which is submitted in 2023.10. The work conducted during my master has been completed! Thanks to Prof. Xiao and all my lab mates.\\
 One paper has been accepted by INFOCOM 2025! \\
 One paper has been accepted by ICDCS 2024! \\
 One paper has been accepted by ICPADS 2023!
@@ -32,7 +32,7 @@ Publications during my PhD :horse_racing:
 
    Submitted to OSDI 26
    </font>
-
+\\
 Publications during my Master, supervised by Prof. Mingjun Xiao: 
 **Conference Papers**
 
