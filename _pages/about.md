@@ -19,7 +19,7 @@ One paper has been accepted by INFOCOM 2025! \\
 One paper has been accepted by ICDCS 2024! \\
 One paper has been accepted by ICPADS 2023!
 
-Publications during my PhD, supervised by Prof. Zhang & Prof. Chen:
+Publications during my PhD:
 ======
 
 **Conference Papers**
@@ -34,7 +34,7 @@ Publications during my PhD, supervised by Prof. Zhang & Prof. Chen:
    </font>
 \\
 
-Publications during my Master, supervised by Prof. Mingjun Xiao: 
+Publications during my Master: 
 ======
 
 **Conference Papers**
