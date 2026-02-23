@@ -19,9 +19,8 @@ One paper has been accepted by INFOCOM 2025! \\
 One paper has been accepted by ICDCS 2024! \\
 One paper has been accepted by ICPADS 2023!
 
-Publications
+Publications during my PhD, supervised by Prof. Zhang & Prof. Chen:
 ======
-Publications during my PhD :horse_racing:
 
 **Conference Papers**
 
@@ -34,7 +33,10 @@ Publications during my PhD :horse_racing:
    Submitted to OSDI 26
    </font>
 \\
+
 Publications during my Master, supervised by Prof. Mingjun Xiao: 
+======
+
 **Conference Papers**
 
 1. ERS: Faster LiDAR Point Cloud Registration for Connected Vehicles
