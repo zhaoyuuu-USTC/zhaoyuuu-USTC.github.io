@@ -11,12 +11,6 @@ BIOGRAPHY
 ======
 I am a PhD at USTC on MLsys, co-supervised by [Prof. Juexue Zhang](https://snowzjx.me) and Prof. Kai Chen. I have obtained my master's degree from the School of Computer Science, University of Science and Technology of China (USTC) in June 2024 under the supervision of [Prof. Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/).  I am also fortunate to work with [Prof. Jie Wu](https://cis.temple.edu/~wu/) (Fellow of AAAS, and Fellow of IEEE) from Temple University. Before that, I received my bachelor's degree from Chongqing University (CQU) in 2021. 
 
-News
-=====
-
-One paper has been accepted by INFOCOM 2025! \\
-One paper has been accepted by ICDCS 2024! \\
-One paper has been accepted by ICPADS 2023!
 
 Publications during my PhD:
 ======
