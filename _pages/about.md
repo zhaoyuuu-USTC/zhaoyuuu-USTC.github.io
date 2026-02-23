@@ -14,7 +14,6 @@ I am a PhD at USTC on MLsys, co-supervised by [Prof. Juexue Zhang](https://snowz
 News
 =====
 
-One paper has been accepted by TMC, which is submitted in 2023.10. The work conducted during my master has been completed! Thanks to Prof. Xiao and all my lab mates.\\
 One paper has been accepted by INFOCOM 2025! \\
 One paper has been accepted by ICDCS 2024! \\
 One paper has been accepted by ICPADS 2023!
@@ -37,9 +36,15 @@ Publications during my PhD:
 Publications during my Master: 
 ======
 
-**Conference Papers**
+1. Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation
 
-1. ERS: Faster LiDAR Point Cloud Registration for Connected Vehicles
+   <font face="Times New Roman"><u>Yu Zhao</u>, He Sun, Mingjun Xiao, Jie Wu, Junjie Shao, and Jinbo Cai.<br />
+
+   IEEE Transactions on Mobile Computing (TMC); 
+   </font>
+   
+
+2. ERS: Faster LiDAR Point Cloud Registration for Connected Vehicles
 
    <font face="Times New Roman">
 
@@ -49,7 +54,7 @@ Publications during my Master:
    </font>
    [Link](https://ieeexplore.ieee.org/document/10630930)
    
-2. PSFL: Parallel-Sequential Federated Learning with Convergence Guarantees
+3. PSFL: Parallel-Sequential Federated Learning with Convergence Guarantees
    
    <font face="Times New Roman">
 
@@ -57,7 +62,7 @@ Publications during my Master:
    IEEE International Conference on Computer Communications (INFOCOM 2025);
    </font>
 
-3. Video Streaming Caching and Transcoding for Heterogeneous Mobile Users
+4. Video Streaming Caching and Transcoding for Heterogeneous Mobile Users
 
    <font face="Times New Roman">
 
@@ -67,16 +72,6 @@ Publications during my Master:
    </font>
    [Link](https://ieeexplore.ieee.org/document/10476058)
 
-
-   
-**Journal Papers** 
-
-1. Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation
-
-   <font face="Times New Roman"><u>Yu Zhao</u>, He Sun, Mingjun Xiao, Jie Wu, Junjie Shao, and Jinbo Cai.<br />
-
-   IEEE Transactions on Mobile Computing (TMC); 
-   </font>
    
 
 Competition
