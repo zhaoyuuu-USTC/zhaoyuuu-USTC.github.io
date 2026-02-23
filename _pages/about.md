@@ -9,19 +9,31 @@ redirect_from:
 
 BIOGRAPHY
 ======
-I will pursue my PhD at USTC on MLsys, co-supervised by [Prof. Juexue Zhang](https://snowzjx.me) and Prof. Kai Chen. I have obtained my master's degree from the School of Computer Science, University of Science and Technology of China (USTC) in June 2024 under the supervision of [Prof. Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/).  I am also fortunate to work with [Prof. Jie Wu](https://cis.temple.edu/~wu/) (Fellow of AAAS, and Fellow of IEEE) from Temple University. Before that, I received my bachelor's degree from Chongqing University (CQU) in 2021. I'm interested in mobile computing and humanoid robots.                    
-
+I am a PhD at USTC on MLsys, co-supervised by [Prof. Juexue Zhang](https://snowzjx.me) and Prof. Kai Chen. I have obtained my master's degree from the School of Computer Science, University of Science and Technology of China (USTC) in June 2024 under the supervision of [Prof. Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/).  I am also fortunate to work with [Prof. Jie Wu](https://cis.temple.edu/~wu/) (Fellow of AAAS, and Fellow of IEEE) from Temple University. Before that, I received my bachelor's degree from Chongqing University (CQU) in 2021. 
 
 News
 =====
+
+One paper has been accepted by TMC, which is submitted in 2023.10. The work conducted during my master has been completed! 
 One paper has been accepted by INFOCOM 2025! \\
 One paper has been accepted by ICDCS 2024! \\
 One paper has been accepted by ICPADS 2023!
 
 Publications
 ======
-More publications are on the way.... :horse_racing:
+Publications during my PhD :horse_racing:
 
+**Conference Papers**
+
+1. ProM for LLM Serving
+   <font face="Times New Roman">
+
+   <u>Yu Zhao</u>, Shihao Zhou, Xiuning Liang, Junxue Zhang, Han Tian, Di Chai, Dian Shen, Kai Chen.<br />
+
+   Submitted to OSDI 26
+   </font>
+   
+Publications during my Master, supervised by Prof. Mingjun Xiao: 
 **Conference Papers**
 
 1. ERS: Faster LiDAR Point Cloud Registration for Connected Vehicles
@@ -56,23 +68,13 @@ More publications are on the way.... :horse_racing:
    
 **Journal Papers** 
 
-1. Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation (Have Received Major Revision Decision)
+1. Edge-assisted Multi-vehicle Cooperative Perception: an Approach Based on Relative Pose Estimation
 
    <font face="Times New Roman"><u>Yu Zhao</u>, He Sun, Mingjun Xiao, Jie Wu, Junjie Shao, and Jinbo Cai.<br />
 
    IEEE Transactions on Mobile Computing (TMC); 
    </font>
    
-2. Cooperative Traffic Signal Online Control Using Game Theory and Contextual Bandit
-
-   <font face="Times New Roman">
-
-   Junjie Shao, <u>Yu Zhao</u>, He Sun, Jinbo Cai, Jie Wu, Mingjun Xiao.<br />
-   
-   Preprint.
-   </font>
-   [PDF](../files/Cooperative_Traffic_Signal_Online_Control.pdf)
-
 
 Competition
 ======
@@ -83,8 +85,3 @@ Competition
 
 [Huawei Code Craft Contest 2024](https://developer.huaweicloud.com/codecraft2024): Second Prize
 
-
-
-For more info
-------
-More detailed information is presented in the CV.
