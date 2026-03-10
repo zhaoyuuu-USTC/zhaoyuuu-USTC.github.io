@@ -15,7 +15,7 @@ I am a PhD at USTC on MLsys, co-supervised by [Prof. Juexue Zhang](https://snowz
 
 Experience
 ======
-USTC PhD Degree 2025.09 - 
+Pursuing USTC PhD's Degree 2025.09 - 
 
 HKUST Research Assistant 2025.05 - 2026.09
 
