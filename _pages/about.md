@@ -17,7 +17,7 @@ Experience
 ======
 Pursuing USTC PhD's Degree 2025.09 - 
 
-HKUST Research Assistant 2025.05 - 2026.09
+HKUST Research Assistant on CSE 2025.05 - 2026.09
 
 USTC Master's Degree on Computer Science 2021.09 - 2024.06
 
@@ -45,7 +45,7 @@ Publications during my Master:
 
    <font face="Times New Roman"><u>Yu Zhao</u>, He Sun, Mingjun Xiao, Jie Wu, Junjie Shao, and Jinbo Cai.<br />
 
-   IEEE Transactions on Mobile Computing (TMC); 
+   IEEE Transactions on Mobile Computing (TMC, CCF A); 
    </font>
 
 2. ERS: Faster LiDAR Point Cloud Registration for Connected Vehicles
@@ -54,7 +54,7 @@ Publications during my Master:
 
    <u>Yu Zhao</u>, Jinrui Zhou, Mingjun Xiao, Jie Wu, He Sun.<br />
 
-   IEEE International Conference on Distributed Computing Systems (ICDCS 2024);
+   IEEE International Conference on Distributed Computing Systems (ICDCS 2024, CCF B);
    </font>
    [Link](https://ieeexplore.ieee.org/document/10630930)
 
@@ -63,7 +63,7 @@ Publications during my Master:
    <font face="Times New Roman">
 
    Jinrui Zhou, <u>Yu Zhao</u>, Mingjun Xiao, Sheng Zhang, Jie Wu, Yin Xu.<br />
-   IEEE International Conference on Computer Communications (INFOCOM 2025);
+   IEEE International Conference on Computer Communications (INFOCOM 2025, CCF A);
    </font>
 
 4. Video Streaming Caching and Transcoding for Heterogeneous Mobile Users
@@ -72,7 +72,7 @@ Publications during my Master:
 
    Jinbo Cai, Mingjun Xiao, Junjie Shao, He Sun, <u>Yu Zhao</u>, Tongxiao Zhang.<br />
 
-   IEEE Conference on Parallel and Distributed Systems (ICPADS 2023);
+   IEEE Conference on Parallel and Distributed Systems (ICPADS 2023, CCF C);
    </font>
    [Link](https://ieeexplore.ieee.org/document/10476058)
 
