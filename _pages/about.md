@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhao Yu's academic page! "
+title: "Yu Zhao's academic page! "
 author_profile: true
 redirect_from: 
   - /about/
