@@ -11,7 +11,7 @@ redirect_from:
 BIOGRAPHY
 ======
 
-I am a PhD at USTC on MLsys, co-supervised by [Prof. Juexue Zhang](https://snowzjx.me) and Prof. Kai Chen. I have obtained my master's degree from the School of Computer Science, University of Science and Technology of China (USTC) in June 2024 under the supervision of [Prof. Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/).  I am also fortunate to work with [Prof. Jie Wu](https://cis.temple.edu/~wu/) (Fellow of AAAS, and Fellow of IEEE) from China Telecom & Temple University. Before that, I received my bachelor's degree from Chongqing University (CQU) in 2021. 
+I am a PhD (Pigs Have Dreams) at USTC on MLsys, co-supervised by [Prof. Juexue Zhang](https://snowzjx.me) and Prof. Kai Chen. I have obtained my master's degree from the School of Computer Science, University of Science and Technology of China (USTC) in June 2024 under the supervision of [Prof. Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/).  I am also fortunate to work with [Prof. Jie Wu](https://cis.temple.edu/~wu/) (Fellow of AAAS, and Fellow of IEEE) from China Telecom & Temple University. Before that, I received my bachelor's degree from Chongqing University (CQU) in 2021. 
 
 Experience
 ======
@@ -32,9 +32,8 @@ Publications during my PhD:
 
    <font face="Times New Roman">
 
-   <u>Yu Zhao</u>, Shihao Zhou, Xiuning Liang, Junxue Zhang, Han Tian, Di Chai, Dian Shen, Kai Chen.<br />
+   <u>Yu Zhao</u>, Boyu Liu, Shihao Zhou, Zaige Fei, Junxue Zhang, Han Tian, Di Chai, Dian Shen, Kai Chen.<br />
 
-   Submitted to OSDI 26
    </font>
 
 
