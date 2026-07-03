@@ -86,3 +86,7 @@ Competition
 
 [Huawei Code Craft Contest 2024](https://developer.huaweicloud.com/codecraft2024): Second Prize
 
+CV
+======
+
+[My CV](../files/CV_Zhaoyu.pdf)
